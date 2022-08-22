@@ -5,7 +5,7 @@
 }
 
 .carrossel .fotos{
-        width: 1000%;
+        width: 1100%;
         animation: animacao 25s infinite;
 }
 
@@ -38,5 +38,5 @@
     87% { margin-left: -900%; } 
     90% { margin-left: -1000%; } 
     96% { margin-left: -1000%; }
-    100% {margin-left: -1000%; } /*a porcentagem não deu exata, então deixei esse 1 segundo a mais na última imagem*/
+    100% {margin-left: -1100%; } /*a porcentagem não deu exata, então deixei esse 1 segundo a mais na última imagem*/
 }
