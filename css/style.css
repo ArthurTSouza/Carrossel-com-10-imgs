@@ -1,6 +1,6 @@
 .carrossel {
-    width: 840px;
-    height: 837px;
+    width: 1150px;
+    height: 540px;
     overflow: hidden;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .carrossel .fotos img{
-    width: 9%;
+    width: 1146px;
 }
 
 @keyframes animacao {
